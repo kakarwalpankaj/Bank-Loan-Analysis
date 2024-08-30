@@ -1,8 +1,4 @@
-![Screenshot 2024-06-17 112434](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/4ffedfcb-7fb7-436c-94d6-2dd5d39dbe94)
-
-# Bank Loan Portfolio Assessment
-
-
+# Bank-Loan-Analysis-SQL-Power-BI-Excel-Tableau
 
 ## Table of Contents
 
